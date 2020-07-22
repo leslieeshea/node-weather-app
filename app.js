@@ -1,4 +1,4 @@
-const request = require('request');
+import request from 'request';
 
 const url = 'http://api.weatherstack.com/current?access_key=ade2d7d0f31c35ad7696fc5fc725ca9c&query=37.8267,-122.4233&units=f';
 
